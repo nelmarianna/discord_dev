@@ -1,0 +1,18 @@
+{
+  "name": "meme-bot",
+  "version": "1.0.0",
+  "description": "My meme Discord bot",
+  "main": "bot.js",
+  "author": "nelmarianna",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.io": "github:Woor/discord.io#gateway_v6",
+    "discord.js": "^11.3.2",
+    "express": "^4.16.2",
+    "get-meme-urls": "^1.0.1",
+    "giphy-api": "^1.2.7",
+    "nodeyourmeme": "^2.0.0",
+    "request": "^2.83.0",
+    "winston": "^2.4.0"
+  }
+}
